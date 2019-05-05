@@ -19,5 +19,7 @@ public class Main {
             e.printStackTrace();
         }
         System.out.println(":要获取的真实数据="+ data.getResult()+System.currentTimeMillis());
+
+        System.out.println("这是一个测试分支");
     }
 }
