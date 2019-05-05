@@ -21,5 +21,7 @@ public class Main {
         System.out.println(":要获取的真实数据="+ data.getResult()+System.currentTimeMillis());
 
         System.out.println("第一次提交代码");
+
+        System.out.println("第二次提交代码");
     }
 }
